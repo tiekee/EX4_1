@@ -1,0 +1,33 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+*.user
+*.log
+
+# Local assistant tools and verification files
+.codex/
+.agents/
+Scripts/
+Source/EX4_1EditorTools/
+Source/EX4_1/Tests/
+Content/Maps/NumberBaseball.umap
+AGENTS.md
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
